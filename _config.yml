@@ -1,5 +1,13 @@
+title: Mon Blog
+description: Bienvenue sur mon blog.
+author: Baptiste
+remote_theme: just-the-docs/just-the-docs
 
-theme: minima
-title: I slipped on a crab. Who put that crab there?
-author: Tug
-description: "Linux Sandbox Script and Craps"
+# Enable or disable the site search
+search_enabled: true
+
+# Set the color scheme to dark
+color_scheme: dark
+
+# URL of the logo image
+logo: "/assets/images/logo.jpg"
