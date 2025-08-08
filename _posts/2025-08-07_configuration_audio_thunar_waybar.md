@@ -2,7 +2,7 @@
 layout: post
 title: "Configuration Audio, Thunar et Waybar sur Arch Linux"
 date: 2025-08-07
-category: Linux
+parent: Linux
 ---
 
 # Résumé de la configuration du 2025-08-07

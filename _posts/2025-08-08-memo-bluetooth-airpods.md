@@ -2,7 +2,7 @@
 layout: post
 title: "Memo : Connexion des AirPods en ligne de commande"
 date: 2025-08-08
-category: Mac
+parent: Mac
 ---
 
 # Memo : Connexion des AirPods en ligne de commande
