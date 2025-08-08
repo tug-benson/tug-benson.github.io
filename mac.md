@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Mac
-parent: Linux
-nav_order: 1
+nav_order: 3
 ---
 
 # Tutoriels et notes sur Mac
