@@ -2,7 +2,7 @@
 layout: post
 title:  "Tutorial: Installing Arch Linux in Dual Boot on a 2017 MacBook Pro"
 date:   2025-08-08 15:10:00 +0200
-categories: jekyll update
+parent: Mac
 ---
 
 This guide summarizes the necessary steps to install Arch Linux in dual boot with macOS on a 15.4-inch 2017 MacBook Pro (Intel chipset), using rEFInd as the boot manager. It is based on an actual installation process and focuses on the method that worked.
